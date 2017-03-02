@@ -1,0 +1,416 @@
+[INFO] >CAP REQ :twitch.tv/membership
+[INFO] >JOIN #monoskystep
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] >CAP REQ :twitch.tv/commands
+[INFO] >CAP REQ :twitch.tv/tags
+[INFO] <:tmi.twitch.tv 001 languagebot :Welcome, GLHF!
+[INFO] <:tmi.twitch.tv 002 languagebot :Your host is tmi.twitch.tv
+[INFO] <:tmi.twitch.tv 003 languagebot :This server is rather new
+[INFO] <:tmi.twitch.tv 004 languagebot :-
+[INFO] <:tmi.twitch.tv 375 languagebot :-
+[INFO] <:tmi.twitch.tv 372 languagebot :You are in a maze of twisty passages, all alike.
+[INFO] <:tmi.twitch.tv 376 languagebot :>
+[INFO] <:languagebot!languagebot@languagebot.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:languagebot.tmi.twitch.tv 353 languagebot = #monoskystep :languagebot
+[INFO] <:languagebot.tmi.twitch.tv 366 languagebot #monoskystep :End of /NAMES list
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/tags
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:jtv MODE #monoskystep +o monoskystep
+[INFO] <PING :tmi.twitch.tv
+[INFO] <PING :tmi.twitch.tv
+[INFO] >CAP REQ :twitch.tv/membership
+[INFO] >JOIN #monoskystep
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] >CAP REQ :twitch.tv/commands
+[INFO] >CAP REQ :twitch.tv/tags
+[INFO] <:tmi.twitch.tv 001 languagebot :Welcome, GLHF!
+[INFO] <:tmi.twitch.tv 002 languagebot :Your host is tmi.twitch.tv
+[INFO] <:tmi.twitch.tv 003 languagebot :This server is rather new
+[INFO] <:tmi.twitch.tv 004 languagebot :-
+[INFO] <:tmi.twitch.tv 375 languagebot :-
+[INFO] <:tmi.twitch.tv 372 languagebot :You are in a maze of twisty passages, all alike.
+[INFO] <:tmi.twitch.tv 376 languagebot :>
+[INFO] <:languagebot!languagebot@languagebot.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:languagebot.tmi.twitch.tv 353 languagebot = #monoskystep :languagebot
+[INFO] <:languagebot.tmi.twitch.tv 366 languagebot #monoskystep :End of /NAMES list
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/tags
+[INFO] >CAP REQ :twitch.tv/membership
+[INFO] >JOIN #monoskystep
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] >CAP REQ :twitch.tv/commands
+[INFO] >CAP REQ :twitch.tv/tags
+[INFO] <:tmi.twitch.tv 001 languagebot :Welcome, GLHF!
+[INFO] <:tmi.twitch.tv 002 languagebot :Your host is tmi.twitch.tv
+[INFO] <:tmi.twitch.tv 003 languagebot :This server is rather new
+[INFO] <:tmi.twitch.tv 004 languagebot :-
+[INFO] <:tmi.twitch.tv 375 languagebot :-
+[INFO] <:tmi.twitch.tv 372 languagebot :You are in a maze of twisty passages, all alike.
+[INFO] <:tmi.twitch.tv 376 languagebot :>
+[INFO] <:languagebot!languagebot@languagebot.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:languagebot.tmi.twitch.tv 353 languagebot = #monoskystep :languagebot
+[INFO] <:languagebot.tmi.twitch.tv 366 languagebot #monoskystep :End of /NAMES list
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/tags
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:jtv MODE #monoskystep +o monoskystep
+[INFO] >JOIN #monoskystep
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] <:tmi.twitch.tv 001 languagebot :Welcome, GLHF!
+[INFO] <:tmi.twitch.tv 002 languagebot :Your host is tmi.twitch.tv
+[INFO] <:tmi.twitch.tv 003 languagebot :This server is rather new
+[INFO] <:tmi.twitch.tv 004 languagebot :-
+[INFO] <:tmi.twitch.tv 375 languagebot :-
+[INFO] <:tmi.twitch.tv 372 languagebot :You are in a maze of twisty passages, all alike.
+[INFO] <:tmi.twitch.tv 376 languagebot :>
+[INFO] <:languagebot!languagebot@languagebot.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:languagebot.tmi.twitch.tv 353 languagebot = #monoskystep :languagebot
+[INFO] <:languagebot.tmi.twitch.tv 366 languagebot #monoskystep :End of /NAMES list
+[INFO] <PING :tmi.twitch.tv
+[INFO] >JOIN #monoskystep
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] <:tmi.twitch.tv 001 languagebot :Welcome, GLHF!
+[INFO] <:tmi.twitch.tv 002 languagebot :Your host is tmi.twitch.tv
+[INFO] <:tmi.twitch.tv 003 languagebot :This server is rather new
+[INFO] <:tmi.twitch.tv 004 languagebot :-
+[INFO] <:tmi.twitch.tv 375 languagebot :-
+[INFO] <:tmi.twitch.tv 372 languagebot :You are in a maze of twisty passages, all alike.
+[INFO] <:tmi.twitch.tv 376 languagebot :>
+[INFO] <:languagebot!languagebot@languagebot.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:languagebot.tmi.twitch.tv 353 languagebot = #monoskystep :languagebot
+[INFO] <:languagebot.tmi.twitch.tv 366 languagebot #monoskystep :End of /NAMES list
+[INFO] <PING :tmi.twitch.tv
+[INFO] <PING :tmi.twitch.tv
+[INFO] >JOIN #monoskystep
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] >JOIN #monoskystep
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] >CAP REQ :twitch.tv/commands
+[INFO] >JOIN #monoskystep
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] >CAP REQ :twitch.tv/membership
+[INFO] <:tmi.twitch.tv 001 languagebot :Welcome, GLHF!
+[INFO] <:tmi.twitch.tv 002 languagebot :Your host is tmi.twitch.tv
+[INFO] <:tmi.twitch.tv 003 languagebot :This server is rather new
+[INFO] <:tmi.twitch.tv 004 languagebot :-
+[INFO] <:tmi.twitch.tv 375 languagebot :-
+[INFO] <:tmi.twitch.tv 372 languagebot :You are in a maze of twisty passages, all alike.
+[INFO] <:tmi.twitch.tv 376 languagebot :>
+[INFO] <:languagebot!languagebot@languagebot.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:languagebot.tmi.twitch.tv 353 languagebot = #monoskystep :languagebot
+[INFO] <:languagebot.tmi.twitch.tv 366 languagebot #monoskystep :End of /NAMES list
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:jtv MODE #monoskystep +o monoskystep
+[INFO] <PING :tmi.twitch.tv
+[INFO] <PING :tmi.twitch.tv
+[INFO] >CAP REQ :twitch.tv/USERSTATE
+[INFO] >JOIN #monoskystep
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] <:tmi.twitch.tv 001 languagebot :Welcome, GLHF!
+[INFO] <:tmi.twitch.tv 002 languagebot :Your host is tmi.twitch.tv
+[INFO] <:tmi.twitch.tv 003 languagebot :This server is rather new
+[INFO] <:tmi.twitch.tv 004 languagebot :-
+[INFO] <:tmi.twitch.tv 375 languagebot :-
+[INFO] <:tmi.twitch.tv 372 languagebot :You are in a maze of twisty passages, all alike.
+[INFO] <:tmi.twitch.tv 376 languagebot :>
+[INFO] <:languagebot!languagebot@languagebot.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:languagebot.tmi.twitch.tv 353 languagebot = #monoskystep :languagebot
+[INFO] <:languagebot.tmi.twitch.tv 366 languagebot #monoskystep :End of /NAMES list
+[INFO] <:tmi.twitch.tv CAP * NAK :twitch.tv/USERSTATE
+[INFO] <PING :tmi.twitch.tv
+[INFO] <PING :tmi.twitch.tv
+[INFO] >CAP REQ :twitch.tv/commands
+[INFO] >JOIN #monoskystep
+[INFO] >CAP REQ :twitch.tv/membership
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] <:tmi.twitch.tv 001 languagebot :Welcome, GLHF!
+[INFO] <:tmi.twitch.tv 002 languagebot :Your host is tmi.twitch.tv
+[INFO] <:tmi.twitch.tv 003 languagebot :This server is rather new
+[INFO] <:tmi.twitch.tv 004 languagebot :-
+[INFO] <:tmi.twitch.tv 375 languagebot :-
+[INFO] <:tmi.twitch.tv 372 languagebot :You are in a maze of twisty passages, all alike.
+[INFO] <:tmi.twitch.tv 376 languagebot :>
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[INFO] <:languagebot!languagebot@languagebot.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:languagebot.tmi.twitch.tv 353 languagebot = #monoskystep :languagebot
+[INFO] <:languagebot.tmi.twitch.tv 366 languagebot #monoskystep :End of /NAMES list
+[INFO] <:tmi.twitch.tv USERSTATE #monoskystep
+[INFO] <:tmi.twitch.tv ROOMSTATE #monoskystep
+[INFO] <:tmi.twitch.tv USERSTATE #monoskystep
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:jtv MODE #monoskystep +o monoskystep
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :qwwewewe
+[INFO] >CAP REQ :twitch.tv/commands
+[INFO] >JOIN #monoskystep
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] >CAP REQ :twitch.tv/membership
+[INFO] <:tmi.twitch.tv 001 languagebot :Welcome, GLHF!
+[INFO] <:tmi.twitch.tv 002 languagebot :Your host is tmi.twitch.tv
+[INFO] <:tmi.twitch.tv 003 languagebot :This server is rather new
+[INFO] <:tmi.twitch.tv 004 languagebot :-
+[INFO] <:tmi.twitch.tv 375 languagebot :-
+[INFO] <:tmi.twitch.tv 372 languagebot :You are in a maze of twisty passages, all alike.
+[INFO] <:tmi.twitch.tv 376 languagebot :>
+[INFO] <:languagebot!languagebot@languagebot.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:languagebot.tmi.twitch.tv 353 languagebot = #monoskystep :languagebot
+[INFO] <:languagebot.tmi.twitch.tv 366 languagebot #monoskystep :End of /NAMES list
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:jtv MODE #monoskystep +o monoskystep
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PART #monoskystep
+[INFO] <:jtv MODE #monoskystep -o monoskystep
+[INFO] <PING :tmi.twitch.tv
+[INFO] >CAP REQ :twitch.tv/commands
+[INFO] >JOIN #monoskystep
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] >CAP REQ :twitch.tv/membership
+[INFO] <:tmi.twitch.tv 001 languagebot :Welcome, GLHF!
+[INFO] <:tmi.twitch.tv 002 languagebot :Your host is tmi.twitch.tv
+[INFO] <:tmi.twitch.tv 003 languagebot :This server is rather new
+[INFO] <:tmi.twitch.tv 004 languagebot :-
+[INFO] <:tmi.twitch.tv 375 languagebot :-
+[INFO] <:tmi.twitch.tv 372 languagebot :You are in a maze of twisty passages, all alike.
+[INFO] <:tmi.twitch.tv 376 languagebot :>
+[INFO] <:languagebot!languagebot@languagebot.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:languagebot.tmi.twitch.tv 353 languagebot = #monoskystep :languagebot
+[INFO] <:languagebot.tmi.twitch.tv 366 languagebot #monoskystep :End of /NAMES list
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv JOIN #monoskystep
+[INFO] <PING :tmi.twitch.tv
+[INFO] <PING :tmi.twitch.tv
+[INFO] >JOIN #monoskystep
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] >CAP REQ :twitch.tv/commands
+[INFO] >CAP REQ :twitch.tv/membership
+[INFO] <:tmi.twitch.tv 001 languagebot :Welcome, GLHF!
+[INFO] <:tmi.twitch.tv 002 languagebot :Your host is tmi.twitch.tv
+[INFO] <:tmi.twitch.tv 003 languagebot :This server is rather new
+[INFO] <:tmi.twitch.tv 004 languagebot :-
+[INFO] <:tmi.twitch.tv 375 languagebot :-
+[INFO] <:tmi.twitch.tv 372 languagebot :You are in a maze of twisty passages, all alike.
+[INFO] <:tmi.twitch.tv 376 languagebot :>
+[INFO] <:languagebot!languagebot@languagebot.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:languagebot.tmi.twitch.tv 353 languagebot = #monoskystep :languagebot
+[INFO] <:languagebot.tmi.twitch.tv 366 languagebot #monoskystep :End of /NAMES list
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[INFO] <PING :tmi.twitch.tv
+[INFO] <PING :tmi.twitch.tv
+[INFO] >JOIN #monoskystep
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] >CAP REQ :twitch.tv/commands
+[INFO] >CAP REQ :twitch.tv/membership
+[INFO] <:tmi.twitch.tv 001 languagebot :Welcome, GLHF!
+[INFO] <:tmi.twitch.tv 002 languagebot :Your host is tmi.twitch.tv
+[INFO] <:tmi.twitch.tv 003 languagebot :This server is rather new
+[INFO] <:tmi.twitch.tv 004 languagebot :-
+[INFO] <:tmi.twitch.tv 375 languagebot :-
+[INFO] <:tmi.twitch.tv 372 languagebot :You are in a maze of twisty passages, all alike.
+[INFO] <:tmi.twitch.tv 376 languagebot :>
+[INFO] <:languagebot!languagebot@languagebot.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:languagebot.tmi.twitch.tv 353 languagebot = #monoskystep :languagebot
+[INFO] <:languagebot.tmi.twitch.tv 366 languagebot #monoskystep :End of /NAMES list
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv JOIN #monoskystep
+[INFO] <PING :tmi.twitch.tv
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PART #monoskystep
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :ahh
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :user
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :st-a-t-e
+[INFO] >JOIN #monoskystep
+[INFO] >CAP REQ :twitch.tv/commands
+[INFO] >CAP REQ :twitch.tv/membership
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] <:tmi.twitch.tv 001 languagebot :Welcome, GLHF!
+[INFO] <:tmi.twitch.tv 002 languagebot :Your host is tmi.twitch.tv
+[INFO] <:tmi.twitch.tv 003 languagebot :This server is rather new
+[INFO] <:tmi.twitch.tv 004 languagebot :-
+[INFO] <:tmi.twitch.tv 375 languagebot :-
+[INFO] <:tmi.twitch.tv 372 languagebot :You are in a maze of twisty passages, all alike.
+[INFO] <:tmi.twitch.tv 376 languagebot :>
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[INFO] <:languagebot!languagebot@languagebot.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:languagebot.tmi.twitch.tv 353 languagebot = #monoskystep :languagebot
+[INFO] <:languagebot.tmi.twitch.tv 366 languagebot #monoskystep :End of /NAMES list
+[INFO] <:tmi.twitch.tv USERSTATE #monoskystep
+[INFO] <:tmi.twitch.tv ROOMSTATE #monoskystep
+[INFO] <:tmi.twitch.tv USERSTATE #monoskystep
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :WEEE
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :WOOO
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :Kappa KappaClaus
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:jtv MODE #monoskystep +o monoskystep
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :now
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :lets do this modding ***
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :you
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :sir
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :are now modded
+[INFO] <PING :tmi.twitch.tv
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :unmodding time i geuss
+[INFO] >JOIN #monoskystep
+[INFO] >CAP REQ :twitch.tv/commands
+[INFO] >CAP REQ :twitch.tv/membership
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] <:tmi.twitch.tv 001 languagebot :Welcome, GLHF!
+[INFO] <:tmi.twitch.tv 002 languagebot :Your host is tmi.twitch.tv
+[INFO] <:tmi.twitch.tv 003 languagebot :This server is rather new
+[INFO] <:tmi.twitch.tv 004 languagebot :-
+[INFO] <:tmi.twitch.tv 375 languagebot :-
+[INFO] <:tmi.twitch.tv 372 languagebot :You are in a maze of twisty passages, all alike.
+[INFO] <:tmi.twitch.tv 376 languagebot :>
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[INFO] <:languagebot!languagebot@languagebot.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:languagebot.tmi.twitch.tv 353 languagebot = #monoskystep :languagebot
+[INFO] <:languagebot.tmi.twitch.tv 366 languagebot #monoskystep :End of /NAMES list
+[INFO] <:tmi.twitch.tv USERSTATE #monoskystep
+[INFO] <:tmi.twitch.tv ROOMSTATE #monoskystep
+[INFO] <:tmi.twitch.tv USERSTATE #monoskystep
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :zzzz
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:jtv MODE #monoskystep +o monoskystep
+[INFO] <:rmvex!rmvex@rmvex.tmi.twitch.tv PRIVMSG #monoskystep :Hello ^^ I am the message
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :ty
+[INFO] <:rmvex!rmvex@rmvex.tmi.twitch.tv PRIVMSG #monoskystep :Np ^
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :test
+[INFO] <PING :tmi.twitch.tv
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :inhere
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :ILL MOVE ALONG WHEN I WANT TO MOVE ALONG
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :YOU DONT TELL ME WHAT TO DO
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :WAIT NO MONO WHY YOU OFFLINE
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :heyo
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :not
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :I CRI PLEASE COME BACK
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :You is too
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :hol
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :had to change oath
+[INFO] <PING :tmi.twitch.tv
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :turned off stream
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :o
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :oooo
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :Can I refresh page yet?
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :ye
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :probably
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep ::o twitch AMAZ NO REFRESH REQUIRED LMAO
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :So, this your first time streamin?
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :nop
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :just figured i might as well today because i have nothing better to do
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :I a mod :o :D
+[INFO] >JOIN #monoskystep
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] >CAP REQ :twitch.tv/commands
+[INFO] >CAP REQ :twitch.tv/membership
+[INFO] <:tmi.twitch.tv 001 languagebot :Welcome, GLHF!
+[INFO] <:tmi.twitch.tv 002 languagebot :Your host is tmi.twitch.tv
+[INFO] <:tmi.twitch.tv 003 languagebot :This server is rather new
+[INFO] <:tmi.twitch.tv 004 languagebot :-
+[INFO] <:tmi.twitch.tv 375 languagebot :-
+[INFO] <:tmi.twitch.tv 372 languagebot :You are in a maze of twisty passages, all alike.
+[INFO] <:tmi.twitch.tv 376 languagebot :>
+[INFO] <:languagebot!languagebot@languagebot.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:languagebot.tmi.twitch.tv 353 languagebot = #monoskystep :languagebot
+[INFO] <:languagebot.tmi.twitch.tv 366 languagebot #monoskystep :End of /NAMES list
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :heya
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:jtv MODE #monoskystep +o monoskystep
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :say something now
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :Something
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :Boooga woooga
+[INFO] <:misleadinginfo!misleadinginfo@misleadinginfo.tmi.twitch.tv PRIVMSG #monoskystep :inhere
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :first
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :zasdaffsdfdsf
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :So what tis this bot do
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :it was a bot to send me notifications if there was a chat message in a channel after a period of time
+[INFO] <:misleadinginfo!misleadinginfo@misleadinginfo.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :o
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :i never added a sleep into the loop and it killed memory so much
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :Wait wait wait
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :(Was)
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :What is it now?
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :it is*
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :i just never use it
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :o
+[INFO] <PING :tmi.twitch.tv
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :So thats what you're programming atm though?
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :FINALLY
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :python
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :for the life of me i couldn't get a demod event
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :Well remod me if you haven't already xD
+[INFO] <:jtv MODE #monoskystep +o gambitanimating
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :Im still debating if my bot should have a database or not
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :hmm
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :for what?
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :Or if I just should stop working on him entirely
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :To remember people and that sort of stuff
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :i was probably just going to store it all in json files
+[INFO] <:jtv MODE #monoskystep -o gambitanimating
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :databases are usually annoying imo
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :wait
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :That would work, but with flash you can use yahoo databases, so thats good with me
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :yahoo databases?
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :Sec ill try to find it
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :https://gamesnet.yahoo.net/documentation/services/bigdb/
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :brb
+[INFO] <:gambitanimating!gambitanimating@gambitanimating.tmi.twitch.tv PRIVMSG #monoskystep :k
+[INFO] <PING :tmi.twitch.tv
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv PRIVMSG #monoskystep :back
+[INFO] >JOIN #monoskystep
+[INFO] >CAP REQ :twitch.tv/commands
+[INFO] >CAP REQ :twitch.tv/membership
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] >JOIN #monoskystep
+[INFO] >CAP REQ :twitch.tv/commands
+[INFO] >CAP REQ :twitch.tv/membership
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] <:tmi.twitch.tv 001 languagebot :Welcome, GLHF!
+[INFO] <:tmi.twitch.tv 002 languagebot :Your host is tmi.twitch.tv
+[INFO] <:tmi.twitch.tv 003 languagebot :This server is rather new
+[INFO] <:tmi.twitch.tv 004 languagebot :-
+[INFO] <:tmi.twitch.tv 375 languagebot :-
+[INFO] <:tmi.twitch.tv 372 languagebot :You are in a maze of twisty passages, all alike.
+[INFO] <:tmi.twitch.tv 376 languagebot :>
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[INFO] <:languagebot!languagebot@languagebot.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:languagebot.tmi.twitch.tv 353 languagebot = #monoskystep :languagebot
+[INFO] <:languagebot.tmi.twitch.tv 366 languagebot #monoskystep :End of /NAMES list
+[INFO] <:tmi.twitch.tv USERSTATE #monoskystep
+[INFO] <:tmi.twitch.tv ROOMSTATE #monoskystep
+[INFO] <:tmi.twitch.tv USERSTATE #monoskystep
+[INFO] <:monoskystep!monoskystep@monoskystep.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:jtv MODE #monoskystep +o monoskystep
+[INFO] >CAP REQ :twitch.tv/commands
+[INFO] >CAP REQ :twitch.tv/membership
+[INFO] >JOIN #monoskystep
+[INFO] >PRIVMSG #monoskystep :hiya
+[INFO] <:tmi.twitch.tv 001 languagebot :Welcome, GLHF!
+[INFO] <:tmi.twitch.tv 002 languagebot :Your host is tmi.twitch.tv
+[INFO] <:tmi.twitch.tv 003 languagebot :This server is rather new
+[INFO] <:tmi.twitch.tv 004 languagebot :-
+[INFO] <:tmi.twitch.tv 375 languagebot :-
+[INFO] <:tmi.twitch.tv 372 languagebot :You are in a maze of twisty passages, all alike.
+[INFO] <:tmi.twitch.tv 376 languagebot :>
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/commands
+[INFO] <:tmi.twitch.tv CAP * ACK :twitch.tv/membership
+[INFO] <:languagebot!languagebot@languagebot.tmi.twitch.tv JOIN #monoskystep
+[INFO] <:languagebot.tmi.twitch.tv 353 languagebot = #monoskystep :languagebot
+[INFO] <:languagebot.tmi.twitch.tv 366 languagebot #monoskystep :End of /NAMES list
+[INFO] <:tmi.twitch.tv USERSTATE #monoskystep
+[INFO] <:tmi.twitch.tv ROOMSTATE #monoskystep
+[INFO] <:tmi.twitch.tv USERSTATE #monoskystep
